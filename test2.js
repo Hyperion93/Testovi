@@ -1,5 +1,5 @@
 let m=10;
-let n=100;
+let n=120;
 let sum=0;
 let pros=0;
 for(let coun=m;coun<=n;coun++){
@@ -8,5 +8,5 @@ for(let coun=m;coun<=n;coun++){
 pros=sum/7;
 }
 console.log(pros);
-
+//10
 

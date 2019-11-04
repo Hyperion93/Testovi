@@ -1,4 +1,4 @@
-var n = 4
+var n = 10
 for (i = 1; i <= n; i++) {
     str = "";
     for (j = i; j < 10; j++) {
@@ -20,3 +20,4 @@ for (i = n - 1; i >= 1; i--) {
     }
     console.log(str);
 }
+//17
